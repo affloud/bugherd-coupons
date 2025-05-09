@@ -12,7 +12,7 @@ It’s great for web developers, designers, and agencies who want a faster, clea
 | Feature                        | Details                                                                           |
 | ------------------------------ | --------------------------------------------------------------------------------- |
 | **Software Name**              | BugHerd                                                                           |
-| **Official Website**           | [https://bugherd.com](https://bugherd.com)                                        |
+| **Official Website**           | [https://bugherd.com](https://afftrend.com/bugherd)                                        |
 | **Developers**                 | Macropod Software Pty Ltd                                                         |
 | **USP (Unique Selling Point)** | Pin feedback directly to website elements and turn it into tasks automatically    |
 | **Category**                   | Bug Tracking, Visual Feedback Tool                                                |
@@ -31,7 +31,8 @@ It’s great for web developers, designers, and agencies who want a faster, clea
 | **Task Management**            | Built-in Kanban board                                                             |
 | **Screen Recording**           | Yes (video and audio feedback supported)                                          |
 | **Feedback Types**             | On-site comments, video feedback, design file reviews (PDFs, Figma, images)       |
-<a href="https://afftrend.com/BugHerd"> 
+
+<a href="https://afftrend.com/bugherd"> 
 <img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
 </a>
 
@@ -104,7 +105,7 @@ Here’s an up-to-date list of active BugHerd coupon codes and offers available 
   
 ## How to Apply a BugHerd Coupon Code
 
-1. Visit [BugHerd’s official website](https://bugherd.com).
+1. Visit [BugHerd’s official website](https://afftrend.com/bugherd).
 2. Click on “Get Started” or “Pricing” to choose your plan.
 3. During checkout, look for the “Promo Code” or “Coupon Code” field.
 4. Enter the desired coupon code (e.g., `20PERCENTOFF`, `MIDYEARSALE24`, or `Get30`).
@@ -134,6 +135,7 @@ During the trial period, you have access to all essential functionalities, inclu
 This trial is ideal for freelancers, agencies, and teams looking to streamline their website feedback and bug tracking processes.
 
 If you decide to continue with BugHerd after the trial, they offer a **60-day money-back guarantee**. This means you can subscribe to a plan and still have the option to receive a full refund within 60 days if you're not satisfied with the service.
+
 <a href="https://afftrend.com/bugherd"> 
 <img src="https://drive.google.com/uc?export=view&id=1lDtKHsXR0IJ5U39YxaBc_EH0Hjh0BnG2" alt="Get Full Access - Try Free"> 
 </a>
