@@ -12,7 +12,7 @@ If you're working on websites and want a faster way to handle bugs and feedback,
   <img src="https://drive.google.com/uc?export=view&id=1DrPHQeHd4nofDSOxgzZhjrxcBn2x6g1S"  alt="">
 </a>
 
-BugHerd is a visual feedback and bug tracking tool made for website teams. It helps you collect feedback by letting clients and teammates click on any part of your website and leave a comment. BugHerd turns that feedback into a task, complete with screenshots, browser info, and more. This saves time and avoids confusion from long email chains or unclear messages.
+**BugHerd** is a visual feedback and bug tracking tool made for website teams. It helps you collect feedback by letting clients and teammates click on any part of your website and leave a comment. BugHerd turns that feedback into a task, complete with screenshots, browser info, and more. This saves time and avoids confusion from long email chains or unclear messages.
 
 It’s great for web developers, designers, and agencies who want a faster, clearer way to work with clients or team members. BugHerd is easy to use, works right inside your website, and connects with tools you already use like Jira, Trello, Slack, and ClickUp.
 
